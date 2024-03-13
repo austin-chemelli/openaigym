@@ -1,0 +1,4 @@
+gymnasium==0.27.1
+matplotlib==3.6.3
+nengo==3.2.0
+nengo-gui=0.4.9
